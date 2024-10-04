@@ -6,7 +6,8 @@ The system's core strength lies in its adaptability to multiple scripts and lang
 Moreover, UnityLingua Bharat takes dialectal variations within languages into account. Its speech-to-text and text-to-speech modules are finely tuned to capture nuances, ensuring clarity in communication and minimizing misunderstandings.
 UnityLingua Bharat, through its fusion of advanced AI technologies, language learning features, and offline functionality, revolutionizes the Indian travel experience. It dismantles language barriers, promotes cultural understanding, and opens the door to more immersive and enriching journeys across the subcontinent. This innovative system is the key to a unified and harmonious travel experience in India, where language is no longer a barrier but a bridge to shared experiences and connections.
 
-Screenshot
+## Screenshot
+
 ![ULB - Home Page](https://github.com/user-attachments/assets/73d309b7-66e7-4b9d-a278-91abce9a2bbf)
 
 ![ULB - About Page](https://github.com/user-attachments/assets/94b68e9b-c8a6-4241-9460-f4762cbc4734)
